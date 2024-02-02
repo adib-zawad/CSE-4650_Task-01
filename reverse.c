@@ -1,5 +1,3 @@
-// reverse.c
-
 #include <stdio.h>
 
 // Function to swap two elements in the array
